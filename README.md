@@ -1,7 +1,3 @@
----
-[]: # Filename: README.md
-[]: # Creation Date: 2023-28-11
----
 
 # Hi there 👋. 
 
