@@ -19,4 +19,4 @@ My main areas of interest are bioinformatics and healthcare data science.
   - B.Sc. in Computer Science, Israel Open University, 2022 - current
 
 - 📫 How to reach me: <avivleemann@gmail.com>
-- 🌐 My personal website: <https://avivleemann.github.io/blog/>
+
