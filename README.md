@@ -3,20 +3,17 @@
 
 My name is Aviv Leemann.
 
-My background is in bioinformatics and data science.
+I am a **Bioinformatician and PhD Candidate** at Dr. Merav Cohen's lab, Tel Aviv University.
 
-The position I hold at Aummune Ltd. is that of a Bioinformatics researcher.
+My work focuses on computational biology and data science, and I am a recipient of the **Gray Scholarship** for academic excellence.
 
-I completed my master's degree at Tel Aviv University Shomron Lab, and I work with both Python and R.
-
-My main areas of interest are bioinformatics and healthcare data science.
-
-- 🌱 I’m currently learning CS in Israel Open University
-- 🔭 I’m currently Intrested in Computational biology, Bioinformatics & Data science.
+- 🌱 I’m currently learning CS at the Israel Open University.
+- 🔭 I’m currently researching inter-tissue communication and breast cancer progression.
 - 🎓 My education:
-  - M.Sc. Medical Science & Bioinformatics, Tel Aviv University, 2020 - 2022.
-  - B.Sc. in Life Science, Tel Aviv University, 2017 - 2020.
-  - B.Sc. in Computer Science, Israel Open University, 2022 - current
+  - **PhD in Medical Sciences**, Tel Aviv University, 2025 – Present
+  - **M.Sc. in Medical Sciences**, Tel Aviv University, 2020 – 2022
+  - **B.Sc. in Computer Science**, Israel Open University, 2022 – Present
+  - **B.Sc. in Life Sciences**, Tel Aviv University, 2017 – 2020
 
-- 📫 How to reach me: <avivleemann@gmail.com>
-
+- 📫 How to reach me: [avivleemann@mail.tau.ac.il](mailto:avivleemann@mail.tau.ac.il)
+- 
